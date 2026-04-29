@@ -36,6 +36,20 @@ Search, e-commerce sites, and more — just by asking.
 openclaw plugins install @apify/apify-openclaw-plugin
 ```
 
+### Camofox Browser
+
+Anti-detection browser automation server for AI agents. Wraps Camoufox
+(Firefox-based) to bypass bot detection on Google, Amazon, LinkedIn, and other
+protected sites. Provides 10 tools for tab management, navigation, clicking,
+typing, screenshots, and cookie import with full session isolation.
+
+- **npm:** `@askjo/camofox-browser`
+- **repo:** [github.com/jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser)
+
+```bash
+openclaw plugins install @askjo/camofox-browser
+```
+
 ### Codex App Server Bridge
 
 Independent OpenClaw bridge for Codex App Server conversations. Bind a chat to
